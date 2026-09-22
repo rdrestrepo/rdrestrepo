@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hola, soy Robinson 👋
 
-<!--
-**rdrestrepo/rdrestrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full-Stack enfocado en Python (FastAPI) y Angular/TypeScript.
 
-Here are some ideas to get you started:
+🔭 Construyendo proyectos de portfolio con APIs públicas y despliegue en producción real
+🌱 Aprendiendo sobre arquitectura backend y buenas prácticas de despliegue en la nube
+💼 Buscando oportunidades remotas como desarrollador Full-Stack
+📫 Contáctame: [LinkedIn](www.linkedin.com/in/
+robinson-restrepo-857988430
+)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+Python · FastAPI · SQLAlchemy · PostgreSQL · Angular · TypeScript · Git · Render · Vercel
